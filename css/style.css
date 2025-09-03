@@ -1,11 +1,25 @@
-h1{
+h1 {
   border-color: #d3e644;
   border-style: dashed;
+  font-family: Impact, 'Arial Narrow Bold', sans-serif;
+  text-align: center;
+}
+
+body {
+  background-color: lightsteelblue;
+}
+
+img {
+  border-radius: 8px;
+}
+
+ul li {
+  list-style-type: lower-alpha;
 }
 
 table {
   border-collapse: collapse;
-  width: 100%;
+  width: 95vw;
   margin-bottom: 20px;
 }
 
